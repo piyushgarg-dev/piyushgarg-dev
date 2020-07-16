@@ -1,15 +1,33 @@
-### MERN Stack Developer
-<!--
-**piyushgarg195/piyushgarg195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there, I am Piyush Garg
 
-Here are some ideas to get you started:
+## Technologies I have been working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Basic
+- C
+- C++
+- Java
+- Python
+
+### WEB
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- Node.js
+- React.js
+- Vue.js
+- Angular.js
+- Django
+
+### Mobile
+- React Native
+- FLutter
+- Android with Java
+
+### Databases
+- MySql
+- MongoDb
+- Firebase
+- Postgresql
+- Sqlite
+- Sqlflite
