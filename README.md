@@ -21,7 +21,7 @@
 
 ### Mobile
 - React Native
-- FLutter
+- Flutter
 - Android with Java
 
 ### Databases
