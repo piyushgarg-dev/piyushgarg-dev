@@ -31,3 +31,6 @@
 - Postgresql
 - Sqlite
 - Sqlflite
+
+### Extra
+- Typescript
