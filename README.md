@@ -16,7 +16,7 @@
 - Node.js
 - React.js
 - Vue.js
-- Angular.js
+- Angular
 - Django
 
 ### Mobile
