@@ -1,4 +1,4 @@
-### Hey there, I am Piyush Garg
+### Hey there, I am Piyush Garg 👋🏻
 
 ## Technologies I have been working on:
 
