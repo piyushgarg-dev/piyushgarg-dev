@@ -34,3 +34,5 @@
 
 ### Extra
 - Typescript
+
+![Github](https://img.shields.io/github/followers/piyushgarg195?style=social)
