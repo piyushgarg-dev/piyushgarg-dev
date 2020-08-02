@@ -32,7 +32,17 @@
 - Sqlite
 - Sqlflite
 
+### Cloud
+- Amazon Web Services
+- Digital Oceans
+
+### DevOps
+- Travis ci
+- Docker
+
 ### Extra
 - Typescript
+- Socket.io & Websockets
+- Nginx
 
 ![Github](https://img.shields.io/github/followers/piyushgarg195?style=social)
