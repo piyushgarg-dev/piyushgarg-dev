@@ -45,4 +45,6 @@
 - Socket.io & Websockets
 - Nginx
 
+![VISITOR COUNT](https://profile-counter.glitch.me/piyushgarg195/count.svg)
+
 ![Github](https://img.shields.io/github/followers/piyushgarg195?style=social)
