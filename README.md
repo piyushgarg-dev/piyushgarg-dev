@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Paid to Write Developer Blogs](https://piyushgarg.dev/get-paid-to-write-developer-blogs)
-- [Free courses for developers 🚀](https://piyushgarg.dev/free-courses-for-developers)
+- [Deploying Node.js functions to AWS Lambda | Serverless](https://piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
 - [Uploading images to firebase storage with node.js](https://piyushgarg.dev/uploading-images-to-firebase-storage-with-nodejs)
 - [How I built a real-time collaborative IDE with video chat](https://piyushgarg.dev/how-i-built-a-real-time-collaborative-ide-with-video-chat)
+- [Image processing in node.js](https://piyushgarg.dev/image-processing-in-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
