@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **piyushgarg.dev**
 
-### Blogs posts
+### My Blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [Deploying Node.js functions to AWS Lambda | Serverless](https://piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
 - [Uploading images to firebase storage with node.js](https://piyushgarg.dev/uploading-images-to-firebase-storage-with-nodejs)
