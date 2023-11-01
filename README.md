@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Node.js functions to AWS Lambda | Serverless](https://piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
-- [Uploading images to firebase storage with node.js](https://piyushgarg.dev/uploading-images-to-firebase-storage-with-nodejs)
-- [How I built a real-time collaborative IDE with video chat](https://piyushgarg.dev/how-i-built-a-real-time-collaborative-ide-with-video-chat)
-- [Image processing in node.js](https://piyushgarg.dev/image-processing-in-nodejs)
+- [FullStack Twitter Clone](https://blog.piyushgarg.dev/twitter-clone)
+- [Tic Tac Toe Game in Javascript](https://blog.piyushgarg.dev/tic-tac-toe-game-in-javascript)
+- [Deploying Node.js functions to AWS Lambda | Serverless](https://blog.piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
+- [Uploading images to firebase storage with node.js](https://blog.piyushgarg.dev/uploading-images-to-firebase-storage-with-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
