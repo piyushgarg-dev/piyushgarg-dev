@@ -18,6 +18,7 @@
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
 
 - 📫 How to reach me **piyushgarg.dev**
+hi piyush i try to learn to contribute in open source in through your video
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
