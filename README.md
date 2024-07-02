@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **piyushgarg.dev**
 
-### Blogs posts
+### My Blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [FullStack Twitter Clone](https://blog.piyushgarg.dev/twitter-clone)
 - [Tic Tac Toe Game in Javascript](https://blog.piyushgarg.dev/tic-tac-toe-game-in-javascript)
