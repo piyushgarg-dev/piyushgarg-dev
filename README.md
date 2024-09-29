@@ -20,7 +20,9 @@
 - 📫 How to reach me **piyushgarg.dev**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [FullStack Twitter Clone](https://blog.piyushgarg.dev/twitter-clone)
 - [Tic Tac Toe Game in Javascript](https://blog.piyushgarg.dev/tic-tac-toe-game-in-javascript)
 - [Deploying Node.js functions to AWS Lambda | Serverless](https://blog.piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
@@ -30,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyushgarg195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
-<a href="/https://piyushgarg.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://github.com/piyushgarg-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
