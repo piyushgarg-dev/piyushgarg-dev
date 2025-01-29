@@ -20,14 +20,16 @@
 - 📫 How to reach me **piyushgarg.dev**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [FullStack Twitter Clone](https://blog.piyushgarg.dev/twitter-clone)
 - [Tic Tac Toe Game in Javascript](https://blog.piyushgarg.dev/tic-tac-toe-game-in-javascript)
 - [Deploying Node.js functions to AWS Lambda | Serverless](https://blog.piyushgarg.dev/deploying-nodejs-functions-to-aws-lambda-or-serverless)
 - [Uploading images to firebase storage with node.js](https://blog.piyushgarg.dev/uploading-images-to-firebase-storage-with-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyushgarg195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
 <a href="/https://piyushgarg.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a>
