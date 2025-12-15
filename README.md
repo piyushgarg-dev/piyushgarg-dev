@@ -9,7 +9,7 @@
 
 - 🎥 I create coding tutorial videos on YoutTube at [https://youtube.com/c/piyushgarg1](https://youtube.com/c/piyushgarg1)
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Amazon WeServices**
 
 - 👨‍💻 All of my projects are available at [https://piyushgarg.dev](https://piyushgarg.dev)
 
