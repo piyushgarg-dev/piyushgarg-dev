@@ -15,7 +15,7 @@
 ### About
 
 - 🚀 Founder of **[Teachyst](https://www.teachyst.com/)** — a white-labeled, multi-tenant LMS that helps educators and creators monetize their content globally.
-- 🎥 Teaching **389K+** developers on [YouTube](https://youtube.com/@piyushgargdev) across **600+** videos.
+- 🎥 Teaching **400K+** developers on [YouTube](https://youtube.com/@piyushgargdev) across **600+** videos.
 - 🧠 Currently building with **AI agents** and the **Claude Agent SDK**.
 - 📫 Find everything I do at **[piyushgarg.dev](https://www.piyushgarg.dev/)**
 
