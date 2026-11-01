@@ -75,21 +75,6 @@ I create practical, project-focused learning resources for developers who want t
 
 📺 **Watch tutorials:** [youtube.com/@piyushgargdev](https://youtube.com/@piyushgargdev)
 
-## 📊 GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgarg-dev&show_icons=true&hide_border=true&rank_icon=github" alt="Piyush's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgarg-dev&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyushgarg-dev&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/piyushgarg-dev?tab=repositories">Explore my repositories →</a>
-</p>
-
 ## 🤝 Let's connect
 
 I'm always happy to connect with people who love building products, solving engineering challenges, and sharing knowledge.
